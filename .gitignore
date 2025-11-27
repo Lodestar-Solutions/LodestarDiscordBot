@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual envs
+.venv/
+venv/
+
+# IDE/project settings
+.vscode/
+.idea/
+
+# Environment/config secrets
+.env
+
+# OS junk
+.DS_Store
+.env
